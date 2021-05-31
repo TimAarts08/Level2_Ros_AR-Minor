@@ -1,0 +1,23 @@
+[0.195s] Invoking command in '/home/student/Level2_Ros_AR-Minor/src/Level2_Ros': PYTHONPATH=/home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Level2_Ros build --build-base /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build install --prefix /home/student/Level2_Ros_AR-Minor/install/Level2_Ros --record /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/install.log --single-version-externally-managed
+[0.364s] running egg_info
+[0.364s] writing ../../build/Level2_Ros/Level2_Ros.egg-info/PKG-INFO
+[0.365s] writing dependency_links to ../../build/Level2_Ros/Level2_Ros.egg-info/dependency_links.txt
+[0.365s] writing entry points to ../../build/Level2_Ros/Level2_Ros.egg-info/entry_points.txt
+[0.365s] writing requirements to ../../build/Level2_Ros/Level2_Ros.egg-info/requires.txt
+[0.365s] writing top-level names to ../../build/Level2_Ros/Level2_Ros.egg-info/top_level.txt
+[0.389s] reading manifest file '../../build/Level2_Ros/Level2_Ros.egg-info/SOURCES.txt'
+[0.390s] writing manifest file '../../build/Level2_Ros/Level2_Ros.egg-info/SOURCES.txt'
+[0.390s] running build
+[0.390s] running build_py
+[0.390s] copying Level2_Ros/Level2_Ros.py -> /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib/Level2_Ros
+[0.390s] running install
+[0.391s] running install_lib
+[0.392s] copying /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib/Level2_Ros/Level2_Ros.py -> /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros
+[0.392s] byte-compiling /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros/Level2_Ros.py to Level2_Ros.cpython-38.pyc
+[0.393s] running install_data
+[0.394s] running install_egg_info
+[0.395s] removing '/home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros-0.0.0-py3.8.egg-info' (and everything under it)
+[0.395s] Copying ../../build/Level2_Ros/Level2_Ros.egg-info to /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros-0.0.0-py3.8.egg-info
+[0.396s] running install_scripts
+[0.409s] writing list of installed files to '/home/student/Level2_Ros_AR-Minor/build/Level2_Ros/install.log'
+[0.423s] Invoked command in '/home/student/Level2_Ros_AR-Minor/src/Level2_Ros' returned '0': PYTHONPATH=/home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Level2_Ros build --build-base /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build install --prefix /home/student/Level2_Ros_AR-Minor/install/Level2_Ros --record /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/install.log --single-version-externally-managed
