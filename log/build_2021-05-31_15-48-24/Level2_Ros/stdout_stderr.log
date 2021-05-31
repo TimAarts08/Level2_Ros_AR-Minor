@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/Level2_Ros/Level2_Ros.egg-info
+writing ../../build/Level2_Ros/Level2_Ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/Level2_Ros/Level2_Ros.egg-info/dependency_links.txt
+writing entry points to ../../build/Level2_Ros/Level2_Ros.egg-info/entry_points.txt
+writing requirements to ../../build/Level2_Ros/Level2_Ros.egg-info/requires.txt
+writing top-level names to ../../build/Level2_Ros/Level2_Ros.egg-info/top_level.txt
+writing manifest file '../../build/Level2_Ros/Level2_Ros.egg-info/SOURCES.txt'
+reading manifest file '../../build/Level2_Ros/Level2_Ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/Level2_Ros/Level2_Ros.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build
+creating /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib
+creating /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib/Level2_Ros
+copying Level2_Ros/__init__.py -> /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib/Level2_Ros
+running install
+running install_lib
+creating /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros
+copying /home/student/Level2_Ros_AR-Minor/build/Level2_Ros/build/lib/Level2_Ros/__init__.py -> /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros
+byte-compiling /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/share/ament_index
+creating /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/share/ament_index/resource_index
+creating /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/share/ament_index/resource_index/packages
+copying resource/Level2_Ros -> /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/share/Level2_Ros
+running install_egg_info
+Copying ../../build/Level2_Ros/Level2_Ros.egg-info to /home/student/Level2_Ros_AR-Minor/install/Level2_Ros/lib/python3.8/site-packages/Level2_Ros-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/student/Level2_Ros_AR-Minor/build/Level2_Ros/install.log'
